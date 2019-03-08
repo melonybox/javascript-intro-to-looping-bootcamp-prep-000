@@ -3,6 +3,6 @@ function forLoop () {
     if ( i === 0 ) {
       return "I am 1 strange loop."
     }
-    else "I am ${i} strange loops."
+    else return "I am ${i} strange loops."
   }
 }
