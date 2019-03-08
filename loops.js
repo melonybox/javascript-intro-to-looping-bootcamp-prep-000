@@ -5,6 +5,6 @@ function forLoop () {
     }
       else {
         return "I am ${i} strange loops."
-      }
     }
+  }
 }
